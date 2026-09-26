@@ -1360,7 +1360,7 @@ if(toscroll) document.getElementById("logcontent").scrollTop = document.getEleme
             ],
             [
                 { type: "text", text: "Why do we call money bread?" },
-                { type: "text", text: "Because we KNEAD it. Haha please send money to my PayPal at nigerianprince99@bonzi.com" },
+                { type: "text", text: "Because we KNEAD it.", say: "Because we KNEAD it. Haha please send money to my PayPal at jewsarethecoolestfuneandbobbedfarecool@bonzi.lol" }, 
             ],
             [
                 { type: "text", text: "How many arabs does it take to knock down a lightbulb?" },
@@ -1369,6 +1369,10 @@ if(toscroll) document.getElementById("logcontent").scrollTop = document.getEleme
             [
                 { type: "text", text: "What do you call an autistic child with herpes?" },
                 { type: "text", text: "Seamus Kendrick Cremeens from Sullivan, Ohio." },
+            ],
+            [
+                { type: "text", text: "Here's a joke:" },
+                { type: "text", text: "Women's rights" },
             ],
             [
                 { type: "text", text: "Here's a joke:" },
