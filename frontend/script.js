@@ -1375,8 +1375,8 @@ if(toscroll) document.getElementById("logcontent").scrollTop = document.getEleme
                 { type: "text", text: "Women's rights" },
             ],
             [
-                { type: "text", text: "Here's a joke:" },
-                { type: "text", text: "Women's rights" },
+                { type: "text", text: "I got an joke on you. Get it? Joke? Now here is the Joke." },
+                { type: "html", text: "<img src='./img/misc/fuckyou.png'></img>", say: "Fuck You." },
             ],
             [
                 { type: "text", text: "Why did Seamus' brother kill himself?" },
